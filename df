@@ -1,0 +1,35 @@
+[33mcommit fae45b2b1913dd2e626f2987d1214e566a2a4244[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Tim Schaeken <tschaeken@gmail.com>
+Date:   Mon Mar 12 14:26:10 2018 -0700
+
+    commit a delete
+
+[33mcommit 1a8b3096d9c18addb95dc0ad5f373f57e1b89831[m
+Author: Tim Schaeken <tschaeken@gmail.com>
+Date:   Mon Mar 12 14:21:25 2018 -0700
+
+    Exploring diff
+
+[33mcommit 93b6562f1df497964f77eccb9392a0301d1b62e7[m
+Author: Tim Schaeken <tschaeken@gmail.com>
+Date:   Mon Mar 12 14:18:23 2018 -0700
+
+    Adding the forth
+
+[33mcommit c1e36d8aded2364c807a103b097f8839c241577e[m
+Author: Tim Schaeken <tschaeken@gmail.com>
+Date:   Mon Mar 12 14:11:13 2018 -0700
+
+    Adding multiple files
+
+[33mcommit bfac802ea4b4da330685b35894a84e31b4883ccb[m
+Author: TSchaeken <TSchaeken@gmail.com>
+Date:   Mon Mar 12 13:54:10 2018 -0700
+
+    Committing changes
+
+[33mcommit cbb66fbb634520f76a6151ad2d1acf2be1f02cfc[m
+Author: TSchaeken <TSchaeken@gmail.com>
+Date:   Mon Mar 12 13:48:59 2018 -0700
+
+    Initial commit
